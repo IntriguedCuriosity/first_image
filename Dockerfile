@@ -1,4 +1,4 @@
-FROM ubuntu:14.04
+FROM ubuntu:20.04
 MAINTAINER ardour <arshad.haque555@gmail.com>
 
 RUN apt-get update
